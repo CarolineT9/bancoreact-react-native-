@@ -63,7 +63,7 @@ yarn ios
 ![](./src/success.png)
 ![](./src/Alert-error.png)
 
-### Built with
+### Desenvolvido com
 - React-native
 - Xcode
 - Xcode-simulator
